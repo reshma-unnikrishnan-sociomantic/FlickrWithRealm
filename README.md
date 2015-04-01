@@ -1,2 +1,2 @@
 # FlickrWithRealm
-realm trial using Fliuckr API
+realm trial using Flickr API
