@@ -1,0 +1,5 @@
+
+platform :ios, '8.0'
+pod 'objectiveflickr', '~> 2.0'
+pod 'pop', '~> 1.0'
+pod 'Realm'

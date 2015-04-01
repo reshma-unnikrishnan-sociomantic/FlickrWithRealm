@@ -1,0 +1,18 @@
+PODS:
+  - objectiveflickr (2.0.4)
+  - pop (1.0.7)
+  - Realm (0.91.1):
+    - Realm/Headers (= 0.91.1)
+  - Realm/Headers (0.91.1)
+
+DEPENDENCIES:
+  - objectiveflickr (~> 2.0)
+  - pop (~> 1.0)
+  - Realm
+
+SPEC CHECKSUMS:
+  objectiveflickr: aed169dae1eb5a5550ca78f7efd7ccde2e4c26e5
+  pop: 628ffc631644601567ee8bfaaaea493ebd7d0923
+  Realm: b9c1fd9defa26aa7276ce938a8df52ec81f24528
+
+COCOAPODS: 0.36.0
